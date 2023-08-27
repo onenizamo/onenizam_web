@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:https://onenizam.com/sitemap.xml
