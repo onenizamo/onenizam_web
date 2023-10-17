@@ -66,8 +66,8 @@ const RESOURCES = {".well-known/assetlinks.json": "06084d303931abbde12341cd9c130
 "assets/assets/svg/share.svg": "01c583b10f5ffa66408a700bce04a04e",
 "assets/assets/svg/whatsapp.svg": "ea9436598e995f9ca8cc5154b4b3c1cb",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "c06c16190c0718307a35739f19c706b0",
-"assets/NOTICES": "9ded5e0fa8b139783d83d0f37d1225fe",
+"assets/fonts/MaterialIcons-Regular.otf": "6dcac55bbbf0f28d39c64b3770555d5e",
+"assets/NOTICES": "52bf84372d99cfde909452e2369dc0d5",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "5caccb235fad20e9b72ea6da5a0094e6",
 "canvaskit/canvaskit.wasm": "d9f69e0f428f695dc3d66b3a83a4aa8e",
@@ -82,12 +82,12 @@ const RESOURCES = {".well-known/assetlinks.json": "06084d303931abbde12341cd9c130
 "icons/Icon-512.png": "20d7a483b66d22defef5dbb914286868",
 "icons/Icon-maskable-192.png": "02d315d32169e55955b074c5111ac8f4",
 "icons/Icon-maskable-512.png": "20d7a483b66d22defef5dbb914286868",
-"index.html": "7a85731912a5a426771bc08e229279d9",
-"/": "7a85731912a5a426771bc08e229279d9",
-"main.dart.js": "f01a3e983f754e14559ec7e193ed5dfd",
+"index.html": "063effe3b57b75666cd1b44ba1e3b249",
+"/": "063effe3b57b75666cd1b44ba1e3b249",
+"main.dart.js": "15f5270bf2f41a7c7e60be6ad422e47d",
 "manifest.json": "5bf6c28551e3ecc84c383ef03cd0a2a4",
 "sitemap.xml": "a142ec73dee926f3abf70f3d38d0c313",
-"version.json": "309201cfee1300254c3ade068e91c31f",
+"version.json": "7371f830ce0bc52d06064ac92c07441c",
 "_redirects": "c51aba1dc7f217dd0a06c5a50a955b89"};
 // The application shell files that are downloaded before a service worker can
 // start.
