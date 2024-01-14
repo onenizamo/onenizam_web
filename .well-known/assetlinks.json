@@ -1,0 +1,14 @@
+[
+    {
+        "realation": [
+            "delegate_permission/common.handle_allurls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.onenizam",
+            "sha256_cert_fingerprints": [
+                "F6:5D:89:37:0B:B3:93:65:B6:3A:B7:61:42:35:E0:5C:C6:7F:18:9C:CF:BF:0C:8F:FB:3B:08:C0:8E:7D:48:F4"
+            ]
+        }
+    }
+]
